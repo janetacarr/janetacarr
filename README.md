@@ -6,7 +6,7 @@ I hope you're well. I'm Janet A. Carr, a freelance Software Developer and Consul
 - My [blog has writings about using Clojure(script)](https://blog.janetacarr) in a professional setting; From touching on how to use Software design with functional programming, to more concrete things like building out a Clojure CI/CD pipeline ✍️
 - I've [given talks on Clojure and Software design in Functional Programming](https://www.youtube.com/playlist?list=PLoAC1Qs8M-1Lhz8E7mOA0ntxLqARIhhhM) 📺
 - My primary focus right now, is keeping freelance clients happy and working on my Clojure Course: [Clojure for Pros](https://clojureforpros.com) 👩‍🏫
-- But, I still have a ton of other projcets in the works too like Clojure(script) frameworks, libraries, macros, games, etc 💻
+- But, I still have a ton of other projects in the works too like Clojure(script) frameworks, libraries, macros, games, etc 💻
 - Ultimately, I want to be self-employed from various sources of income 🆓
 
 <!--
