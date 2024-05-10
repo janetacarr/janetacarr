@@ -3,7 +3,7 @@
 I hope you're well. I'm Janet A. Carr, a freelance Software Developer and Consultant.👩‍💻
 
 - I particularly specialize in Clojure and Functional Programming, but I have a range of experiences from Backend enterprise stuff, to Frontend development at Unicorn startups, to Site-reliability/DevOps for mid-sized companies👩‍💼
-- My [blog has writings about using Clojure(script)](https://blog.janetacarr) in a professional setting; From touching on how to use Software design with functional programming, to more concrete things like building out a Clojure CI/CD pipeline ✍️
+- My [blog has writings about using Clojure(script)](https://blog.janetacarr.com) in a professional setting; From touching on how to use Software design with functional programming, to more concrete things like building out a Clojure CI/CD pipeline ✍️
 - I've [given talks on Clojure and Software design in Functional Programming](https://www.youtube.com/playlist?list=PLoAC1Qs8M-1Lhz8E7mOA0ntxLqARIhhhM) 📺
 - My primary focus right now, is keeping freelance clients happy and working on my Clojure Course: [Clojure for Pros](https://clojureforpros.com) 👩‍🏫
 - But, I still have a ton of other projects in the works too like Clojure(script) frameworks, libraries, macros, games, etc 💻
